@@ -1,6 +1,6 @@
 # VehicleParkingManager
-# Small Vehicle Management System
 
+## Small Vehicle Management System
 ## Overview
 This is a JavaScript-based project for managing small vehicle operations, including:
 - Vehicle details
